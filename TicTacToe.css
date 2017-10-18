@@ -1,0 +1,57 @@
+* {
+  background-color: #E6E8FA;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 6em;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+table {
+  margin: 25px auto;
+}
+
+th {
+  border: 13px black solid;
+  width: 150px;
+  height: 150px;
+  background-color: white;
+}
+
+th:hover {
+  box-shadow: 0 0 2px 3px;
+  background-color: lightblue;
+}
+
+.X {
+  background-color: yellow;
+  font-size: 6em;
+  font-family: fantasy;
+}
+
+.O {
+  background-color: turquoise;
+  font-size: 6em;
+  font-family: fantasy;
+}
+
+#endMessage {
+  font-family: fantasy;
+  font-size: 3em;
+  text-align: center;
+  color: #FE4164;
+}
+#vs{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 3em;
+  color: #FE4164;
+  font-weight: bold;
+  padding-top: 0;
+  margin-top: 0;
+}
